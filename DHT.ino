@@ -14,3 +14,7 @@ void setup() {
   lcd.begin(16, 2)
   lcd.setBacklight(HIGH);
 }
+void loop() {
+  int8_t
+  int16_t
+}
