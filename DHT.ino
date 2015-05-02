@@ -15,6 +15,6 @@ void setup() {
   lcd.setBacklight(HIGH);
 }
 void loop() {
-  int8_t h = dht
+  int8_t h = dht.readHumidity();
   int16_t
 }
