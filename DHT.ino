@@ -16,5 +16,5 @@ void setup() {
 }
 void loop() {
   int8_t h = dht.readHumidity();
-  int16_t
+  int16_t t
 }
